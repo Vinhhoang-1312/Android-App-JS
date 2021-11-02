@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">projectRentalz</string>
+    <string name="invalid_propertytype">Please Enter Valid Property Type</string>
+    <string name="invalid_bedrooms">"Enter Valid Bedrooms Data "</string>
+    <string name="invalid_dateandtime">Please enter valid date and time data</string>
+    <string name="invalid_monthlyrentprice">Please enter valid monthlyrentprice data</string>
+    <string name="invalid_furnituretypes">Please enter valid furnituret ypes data</string>
+    <string name="invalid_notes">Please enter valid notes data</string>
+    <string name="invalid_reporter">Please enter valid reporter name</string>
+</resources>
