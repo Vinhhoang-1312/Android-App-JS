@@ -42,10 +42,7 @@ public class MainActivity extends AppCompatActivity {
                 RegexTemplate.NOT_EMPTY,R.string.invalid_dateandtime);
         awesomeValidation.addValidation(this,R.id.dt_monthlyrentprice,
                 RegexTemplate.NOT_EMPTY,R.string.invalid_monthlyrentprice);
-        awesomeValidation.addValidation(this,R.id.dt_furnituretypes,
-                RegexTemplate.NOT_EMPTY,R.string.invalid_furnituretypes);
-        awesomeValidation.addValidation(this,R.id.dt_notes,
-                RegexTemplate.NOT_EMPTY,R.string.invalid_notes);
+
         awesomeValidation.addValidation(this,R.id.dt_reporter,
                 RegexTemplate.NOT_EMPTY,R.string.invalid_reporter);
 

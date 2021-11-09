@@ -7,4 +7,11 @@
     <string name="invalid_furnituretypes">Please enter valid furnituret ypes data</string>
     <string name="invalid_notes">Please enter valid notes data</string>
     <string name="invalid_reporter">Please enter valid reporter name</string>
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
 </resources>
